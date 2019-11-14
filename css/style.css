@@ -1,0 +1,22 @@
+main{
+	background: #e6e6e6;
+}
+
+nav{
+	background:  #001a1a;
+	transition: 5s;
+}
+
+.fundo-jumbotron{
+	background: #006666;
+	transition: 5s all;
+}
+
+.fundo-jumbotron:hover{
+	/*background: #003333;*/
+	transform: scale(1.1);
+}
+
+h5{
+	font-weight: bold;
+}
