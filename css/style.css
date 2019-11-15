@@ -17,6 +17,14 @@ nav{
 	transform: scale(1.1);
 }
 
-h5{
+h5, h2{
 	font-weight: bold;
+}
+
+.container-formulario{
+	width: 80%;
+}
+
+.paragrafo-index{
+	border: 2px #888888; 
 }
